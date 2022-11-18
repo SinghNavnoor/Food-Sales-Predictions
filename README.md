@@ -1,4 +1,5 @@
-# Sales Prediction
+# Sales Prediction 
+##The type of Outlet that the Item is placed in has a huge impact on its Sales. 
 
 
 ![heatmap_of_correlation](https://user-images.githubusercontent.com/86537623/202663912-f631b959-3951-448d-82de-149a4b5874cd.png)
