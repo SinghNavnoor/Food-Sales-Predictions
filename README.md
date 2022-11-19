@@ -33,12 +33,12 @@
 - Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
 - All Outlet types have some items that sold at an unusual amount compare to where most items were.
 
-### Sales - Price - Outlet Type 
+### Fat Content - Sales - Price - Outlet Type
 ![sales_outlet_type4](https://user-images.githubusercontent.com/86537623/202863046-8b1fce4f-f1f0-4341-88a5-8cfa6dcc76af.png)
 
 ![price_outlet_type4](https://user-images.githubusercontent.com/86537623/202863044-8733f593-2f6c-452d-a73d-97df06c2e446.png)
 #### Analysis:
-- 
+- Considering both barplots, we found that if a Low Fat content item in an outlet is priced higher than its regular fat content counterpart and vis-versa it will also have a higher number of sales.   
 
 ### Explanatory Visualizations:
 
