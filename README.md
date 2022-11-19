@@ -56,30 +56,25 @@
 - Decision Tree
 - Random Forest
 
-### Model Resutls
-#### Linear Regression:
-- Test MAE: 1236081.882  
-- Test MSE:1236081.882 
-- Test RMSE:1111.792 
+### Model Resutls (Testing Sets)
 
-- Train R^2: 60.6 %
-- Test R^2: 55.7%
+#### Linear Regression:
+- MAE: 1236081.882  
+- MSE: 1236081.882 
+- RMSE: 1111.792 
+- R^2: 55.7%
 
 #### Decision Tree (Tuned with max_depth = 5):
-- Test MAE: 1174816.272 
-- Test MSE:1174816.272  
-- Test RMSE:1083.889 
- 
-- Train R^2: 60.6% 
-- Test R^2: 57.9%
+- MAE: 1174816.272 
+- MSE:1174816.272  
+- RMSE:1083.889 
+- R^2: 57.9%
 
 #### Random Forest (Tunded with max_depth = 57 & n_estimator = 300)
-- Test MAE: 1287410.297 
-- Test MSE:1287410.297 
-- Test RMSE:1134.641 
- 
-- Train R^2: 93.9 % 
-- Test R^2: 53.9 %
+- MAE: 1287410.297 
+- MSE:1287410.297 
+- RMSE:1134.641 
+- R^2: 53.9 %
 
 
 #### Decision Tree pipeline
