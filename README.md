@@ -34,8 +34,7 @@
 - All Outlet types have some items that sold at an unusual amount compare to where most items were.
 
 ### Explanatory Visualizations:
-
-![Price_Sales_Fat_Content](https://user-images.githubusercontent.com/86537623/202663966-0ff8d0d1-1cbe-4f30-88b1-3fd1be4f4538.png)
+![price_sales_fat_content2](https://user-images.githubusercontent.com/86537623/202863415-962f1804-4231-44e7-b6ce-860727944fcc.png)
 - At every price, every type of fat content item has does some amount of sale.
 
 ![price_items_fat_content](https://user-images.githubusercontent.com/86537623/202663974-45d793bd-2db6-4592-8c0c-1e227ca6d68f.png)
