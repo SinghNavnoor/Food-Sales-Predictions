@@ -16,14 +16,17 @@
 - For the machine learning, three columns were dropped which were not adding much to the understanding of the dataset. 
 
 ### Exploratory Visualization:
-#### First a heatmap was created to look for any correlation between any of the columns.
+#### First a heatmap was created to look for any correlation between the columns.
+
+![heatmap_of_correlation_final5](https://user-images.githubusercontent.com/86537623/202860920-72a7b68a-a89a-42ef-bf63-658bdd3e23b6.png)
+- In the heatmap we saw that most columns had either weak negative correlation or weak positive correlation.
+- The most positively correlated columns were the Sales and their Price. 
+
 #### Columns with high correlation were further explored with a combination of histogram, boxplot, barplot or scatterplot. 
-
-
-![heatmap_of_correlation_final4](https://user-images.githubusercontent.com/86537623/202844703-e4146099-b43d-4ef7-bf0f-51d5067a014e.png)
 
 ![sales_histo_ _boxplot](https://user-images.githubusercontent.com/86537623/202860773-fe55a3b1-3594-4413-9d4c-ec2dd6ec9755.png)
 - This Outlet Sales histogram shows that sales are heavily right skewed.
+- Boxplot showed that while most of the Sales happened under the 4000 price range some items sold for upto 12000 as well. 
 
 ![sales_outlet_type_barplot](https://user-images.githubusercontent.com/86537623/202663954-a0b465e3-3790-4ab8-930d-08293ffe5939.png)
 
