@@ -33,6 +33,13 @@
 - Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
 - All Outlet types have some items that sold at an unusual amount compare to where most items were.
 
+### Sales - Price - Outlet Type 
+![sales_outlet_type4](https://user-images.githubusercontent.com/86537623/202863046-8b1fce4f-f1f0-4341-88a5-8cfa6dcc76af.png)
+
+![price_outlet_type4](https://user-images.githubusercontent.com/86537623/202863044-8733f593-2f6c-452d-a73d-97df06c2e446.png)
+#### Analysis:
+- 
+
 ### Explanatory Visualizations:
 
 ![Price_Sales_Fat_Content](https://user-images.githubusercontent.com/86537623/202663966-0ff8d0d1-1cbe-4f30-88b1-3fd1be4f4538.png)
