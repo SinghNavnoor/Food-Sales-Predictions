@@ -92,6 +92,12 @@
 - Considering that no model had an R^2 score of greater than 60%,  Decisions Tree has the most well fit model as its training and testing R^2 score are only apart by 3 percent points. 
 - We might get into overfitting if we use Random Forest. 
 
+### For Further Information
+
+#### For any additional questions, please contact:
+
+Navnoor Singh Kahlon (Data Scientist)
+navnoorsingh141@gmail.com
 
 
 
