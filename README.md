@@ -30,8 +30,8 @@
 
 ![sales_outlet_type_barplot](https://user-images.githubusercontent.com/86537623/202663954-a0b465e3-3790-4ab8-930d-08293ffe5939.png)
 
-- Supermarket Type 3 does the most sales of all the other Outlet types, including some of the largest sales as well.
-- All Outlet types have outliers.
+- Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
+- All Outlet types have some items that sold at an unusual amount compare to where most items were.
 
 ### Explanatory Visualizations:
 
