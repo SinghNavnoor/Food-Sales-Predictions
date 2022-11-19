@@ -12,26 +12,27 @@
 ### Data Cleaning
 - Used python methods like .isna() and .duplicated() to see if any columns had null values or any duplicates. 
 - The missing values were imputed with mean and most frequent categories. The duplicate rows were dropped.
-- Columns with inconsistencies like spelling mistakes were dealth accordingly. 
+- Columns with inconsistencies like spelling mistakes were dealt with accordingly. 
 - For the machine learning, three columns were dropped which were not adding much to the understanding of the dataset. 
 
 ### Exploratory Visualization:
 #### First a heatmap was created to look for any correlation between the columns.
 
 ![heatmap_of_correlation_final5](https://user-images.githubusercontent.com/86537623/202860920-72a7b68a-a89a-42ef-bf63-658bdd3e23b6.png)
-- In the heatmap we saw that most columns had either weak negative correlation or weak positive correlation.
-- The most positively correlated columns were the Sales and their Price. 
+- In the heatmap, we see that most columns have either weak positive or negative correlations.
+- The only positively strong correlated is between the Sales and Price columns. 
 
-#### Columns with high correlation were further explored with a combination of histogram, boxplot, barplot or scatterplot. 
+#### Columns with high correlation were further explored with a combination of histograms, boxplots, barplots or scatterplots. 
 
 ![sales_histo_ _boxplot](https://user-images.githubusercontent.com/86537623/202860773-fe55a3b1-3594-4413-9d4c-ec2dd6ec9755.png)
-- This Outlet Sales histogram shows that sales are heavily right skewed.
-- Boxplot showed that while most of the Sales happened under the 4000 price range some items sold for upto 12000 as well. 
+- The Outlet Sales histogram shows that sales are heavily right skewed.
+- The boxplot shows that while most of the Sales happened under the 4000 price range some items sold for upto 12000 as well.
+
+
 ![Sales_types_1](https://user-images.githubusercontent.com/86537623/202863726-0149e635-19bf-497d-b771-2209f26d0c1c.png)
-
-
 - Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
-- All Outlet types have some items that sold at an unusual amount compare to where most items were.
+- In the boxplot we see that all outlet types have some items that sold at an unusual amount compare to where most sales happened.
+
 
 ### Explanatory Visualizations:
 ![price_sales_fat_content2](https://user-images.githubusercontent.com/86537623/202863415-962f1804-4231-44e7-b6ce-860727944fcc.png)
