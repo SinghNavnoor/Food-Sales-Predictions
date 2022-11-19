@@ -22,8 +22,7 @@
 
 ![heatmap_of_correlation_final4](https://user-images.githubusercontent.com/86537623/202844703-e4146099-b43d-4ef7-bf0f-51d5067a014e.png)
 
-
-![Sales_histogram](https://user-images.githubusercontent.com/86537623/202663934-b6b3084a-d005-4480-8c7c-a6d717561ccb.png)
+![sales_histo_ _boxplot](https://user-images.githubusercontent.com/86537623/202860773-fe55a3b1-3594-4413-9d4c-ec2dd6ec9755.png)
 - This Outlet Sales histogram shows that sales are heavily right skewed.
 
 ![sales_outlet_type_barplot](https://user-images.githubusercontent.com/86537623/202663954-a0b465e3-3790-4ab8-930d-08293ffe5939.png)
