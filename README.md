@@ -57,12 +57,51 @@
 - Bagged Tree
 - Random Forest
 
-#### Decision Tree 
-##### With a pipeline
+### Model Resutls
+#### Linear Regression:
+- Train MAE :843.367 
+- Test MAE: 1236081.882 
+- 
+- Train MSE:1288302.287 
+- Test MSE:1236081.882 
+ 
+- Train RMSE:1135.034 
+- Test RMSE:1111.792 
+ 
+- Train R^2: 0.563 
+- Test R^2:0.557
+
+#### Decision Tree (Tuned with max_depth = 5):
+- Train MAE :756.683 
+- Test MAE: 1174816.272 
+ 
+- Train MSE:1161703.433 
+- Test MSE:1174816.272 
+ 
+- Train RMSE:1077.823 
+- Test RMSE:1083.889 
+ 
+- Train R^2: 0.606 
+- Test R^2:0.579
+
+#### Random Forest (Tunded with max_depth = 57 & n_estimator = 300)
+- Train MAE :294.832 
+- Test MAE: 1287410.297 
+ 
+- Train MSE:178821.358 
+- Test MSE:1287410.297 
+ 
+- Train RMSE:422.873 
+- Test RMSE:1134.641 
+ 
+- Train R^2: 0.939 
+- Test R^2:0.539
+
+
+#### Decision Tree pipeline
 <img width="500" alt="Screen Shot 2022-11-18 at 12 56 16 AM" src="https://user-images.githubusercontent.com/86537623/202663979-f0764817-f022-47ce-ab95-7e4f1b44d41e.png">
 
-#### Random Forest
-##### With a pipeline
+#### Random Forest pipeline
 <img width="500" alt="Screen Shot 2022-11-18 at 12 56 53 AM" src="https://user-images.githubusercontent.com/86537623/202663987-093b65d0-4aa4-40ce-acbe-5ae2ba73f845.png">
 
 ## Results:
