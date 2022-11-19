@@ -27,8 +27,8 @@
 ![sales_histo_ _boxplot](https://user-images.githubusercontent.com/86537623/202860773-fe55a3b1-3594-4413-9d4c-ec2dd6ec9755.png)
 - This Outlet Sales histogram shows that sales are heavily right skewed.
 - Boxplot showed that while most of the Sales happened under the 4000 price range some items sold for upto 12000 as well. 
+![Sales_types_1](https://user-images.githubusercontent.com/86537623/202863726-0149e635-19bf-497d-b771-2209f26d0c1c.png)
 
-![Sales_types_1](https://user-images.githubusercontent.com/86537623/202863681-57a48a06-7ff8-4ceb-853f-56ce1cd81936.png)
 
 - Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
 - All Outlet types have some items that sold at an unusual amount compare to where most items were.
