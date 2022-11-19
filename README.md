@@ -19,6 +19,10 @@
 #### First a heatmap was created to look for any correlation between any of the columns.
 #### Columns with high correlation were further explored with a combination of histogram, boxplot, barplot or scatterplot. 
 
+
+![heatmap_of_correlation_final4](https://user-images.githubusercontent.com/86537623/202844703-e4146099-b43d-4ef7-bf0f-51d5067a014e.png)
+
+
 ![Sales_histogram](https://user-images.githubusercontent.com/86537623/202663934-b6b3084a-d005-4480-8c7c-a6d717561ccb.png)
 - This Outlet Sales histogram shows that sales are heavily right skewed.
 
