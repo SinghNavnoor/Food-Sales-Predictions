@@ -1,20 +1,23 @@
-# Sales Prediction 
-## The way an Item is treated and how it is presented at what location has a lot to do with its sales. 
+# Grocery Sales Predictions 
+## Analyzing various aspects of Item placement and features to predict its sales. 
 
-### Author: Navnoor Singh Kahlon
+### Navnoor Singh Kahlon
 
-## Sales Prediction Dataset:
-<img width="500" alt="Screen Shot 2022-11-18 at 1 30 11 AM" src="https://user-images.githubusercontent.com/86537623/202668900-0a3322ea-2bd2-4fdb-abbc-885532801271.png">
+## Dataset:
 
-<img width="500" alt="Screen Shot 2022-11-18 at 1 30 41 AM" src="https://user-images.githubusercontent.com/86537623/202668922-8924cf8d-5e04-4eb3-8692-c247250ad86a.png">
+<img width="500" alt="Screen Shot 2022-11-19 at 12 53 54 AM" src="https://user-images.githubusercontent.com/86537623/202843169-a05e30dd-9de5-4be4-9906-5da813b0c3e1.png">
 
-## Methods:
+
+## Methods for preparing and understanding the data:
 ### Data Cleaning
-- Used python methods like .isna() and .duplicated() to understand the data and dealt with it appropriately.
-- Imputed missing values with mean and most frequent categories. 
-- Dropped columns that were not adding much to the understanding of the dataset. 
+- Used python methods like .isna() and .duplicated() to see if any columns had null values or any duplicates. 
+- The missing values were imputed with mean and most frequent categories. The duplicate rows were dropped.
+- Columns with inconsistencies like spelling mistakes were dealth accordingly. 
+- For the machine learning, three columns were dropped which were not adding much to the understanding of the dataset. 
 
-### Visualization
+### Exploratory Visualization:
+#### First a heatmap was created to look for any correlation between any of the columns.
+#### Columns with high correlation were further explored with a combination of histogram, boxplot, barplot or scatterplot. 
 
 ![Sales_histogram](https://user-images.githubusercontent.com/86537623/202663934-b6b3084a-d005-4480-8c7c-a6d717561ccb.png)
 - This Outlet Sales histogram shows that sales are heavily right skewed.
@@ -23,6 +26,8 @@
 
 - Supermarket Type 3 does the most sales of all the other Outlet types, including some of the largest sales as well.
 - All Outlet types have outliers.
+
+### Explanatory Visualizations:
 
 ![Price_Sales_Fat_Content](https://user-images.githubusercontent.com/86537623/202663966-0ff8d0d1-1cbe-4f30-88b1-3fd1be4f4538.png)
 - At every price, every type of fat content item has does some amount of sale.
