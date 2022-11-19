@@ -54,48 +54,32 @@
 ### Machine Learning Models used:
 - Linear Regression
 - Decision Tree
-- Bagged Tree
 - Random Forest
 
 ### Model Resutls
 #### Linear Regression:
-- Train MAE :843.367 
-- Test MAE: 1236081.882 
-- 
-- Train MSE:1288302.287 
+- Test MAE: 1236081.882  
 - Test MSE:1236081.882 
- 
-- Train RMSE:1135.034 
 - Test RMSE:1111.792 
- 
-- Train R^2: 0.563 
-- Test R^2:0.557
+
+- Train R^2: 60.6 %
+- Test R^2: 55.7%
 
 #### Decision Tree (Tuned with max_depth = 5):
-- Train MAE :756.683 
 - Test MAE: 1174816.272 
- 
-- Train MSE:1161703.433 
-- Test MSE:1174816.272 
- 
-- Train RMSE:1077.823 
+- Test MSE:1174816.272  
 - Test RMSE:1083.889 
  
-- Train R^2: 0.606 
-- Test R^2:0.579
+- Train R^2: 60.6% 
+- Test R^2: 57.9%
 
 #### Random Forest (Tunded with max_depth = 57 & n_estimator = 300)
-- Train MAE :294.832 
 - Test MAE: 1287410.297 
- 
-- Train MSE:178821.358 
 - Test MSE:1287410.297 
- 
-- Train RMSE:422.873 
 - Test RMSE:1134.641 
  
-- Train R^2: 0.939 
-- Test R^2:0.539
+- Train R^2: 93.9 % 
+- Test R^2: 53.9 %
 
 
 #### Decision Tree pipeline
@@ -107,14 +91,6 @@
 ## Results:
 - The best prediction models came out of tuning the Decision Tree and Random Forest. 
 - Linear Regression model turned out to be inadequate.
-
-### Decision Tree:
-- Training Score = 60%
-- Testing Score = 57%
-
-### Random Forest:
-- Training Score = 93%
-- Testing Score = 53%
 
 ### Which Model to implement?
 - Implementing Decision Tree is the better option.
