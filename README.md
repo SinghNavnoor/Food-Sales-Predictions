@@ -33,13 +33,6 @@
 - Supermarket Type 3 has done the most sales of all the other Outlet types, including some of the largest sales as well.
 - All Outlet types have some items that sold at an unusual amount compare to where most items were.
 
-### Fat Content - Sales - Price - Outlet Type
-![sales_outlet_type4](https://user-images.githubusercontent.com/86537623/202863046-8b1fce4f-f1f0-4341-88a5-8cfa6dcc76af.png)
-
-![price_outlet_type4](https://user-images.githubusercontent.com/86537623/202863044-8733f593-2f6c-452d-a73d-97df06c2e446.png)
-#### Analysis:
-- Considering both barplots, we found that if a Low Fat content item in an outlet is priced higher than its regular fat content counterpart and vis-versa it will also have a higher number of sales.   
-
 ### Explanatory Visualizations:
 
 ![Price_Sales_Fat_Content](https://user-images.githubusercontent.com/86537623/202663966-0ff8d0d1-1cbe-4f30-88b1-3fd1be4f4538.png)
@@ -47,6 +40,13 @@
 
 ![price_items_fat_content](https://user-images.githubusercontent.com/86537623/202663974-45d793bd-2db6-4592-8c0c-1e227ca6d68f.png)
 - There is a Low Fat content option available for every item in the store, while some items don't have any Regular Fat content items.
+
+### Fat Content - Sales - Price - Outlet Type
+![sales_outlet_type4](https://user-images.githubusercontent.com/86537623/202863046-8b1fce4f-f1f0-4341-88a5-8cfa6dcc76af.png)
+
+![price_outlet_type4](https://user-images.githubusercontent.com/86537623/202863044-8733f593-2f6c-452d-a73d-97df06c2e446.png)
+#### Analysis:
+- Considering both barplots, we found that if a Low Fat content item in an outlet is priced higher than its regular fat content counterpart and vis-versa it will also have a higher number of sales. 
 
 ### Machine Learning
 #### Decision Tree 
