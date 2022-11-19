@@ -48,7 +48,15 @@
 #### Analysis:
 - Considering both barplots, we found that if a Low Fat content item in an outlet is priced higher than its regular fat content counterpart and vis-versa it will also have a higher number of sales. 
 
-### Machine Learning
+## Machine Learning
+### Goal: Create a highly effective model that can use features from the dataset to predict the amount of sales that item would do. 
+
+### Machine Learning Models used:
+- Linear Regression
+- Decision Tree
+- Bagged Tree
+- Random Forest
+
 #### Decision Tree 
 ##### With a pipeline
 <img width="500" alt="Screen Shot 2022-11-18 at 12 56 16 AM" src="https://user-images.githubusercontent.com/86537623/202663979-f0764817-f022-47ce-ab95-7e4f1b44d41e.png">
